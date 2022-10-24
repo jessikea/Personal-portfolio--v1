@@ -122,6 +122,7 @@ nav ul li a {
     flex: 2 0 50%;
     height:25vh;
     border: 10px solid rgb(83, 122, 158);
+    background-image:url("https://ak6.picdn.net/shutterstock/videos/1077046/thumb/1.jpg")
 }
 
 .flex-item:hover{
