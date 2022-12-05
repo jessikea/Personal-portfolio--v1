@@ -1,4 +1,4 @@
-# portfolio-challenge-2
+Personal Portfolio 
 
 # Project goal:
 
