@@ -80,6 +80,7 @@ nav ul li a {
 .greeting > h2{
     font-size:70px;
     color: lightcyan;
+    opacity: 80%;
     width:fit-content
 }
 .head {
